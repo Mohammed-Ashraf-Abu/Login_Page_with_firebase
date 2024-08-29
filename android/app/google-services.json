@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1058918694054",
+    "project_id": "loginproject-9b52b",
+    "storage_bucket": "loginproject-9b52b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058918694054:android:f48b61984378960fde4867",
+        "android_client_info": {
+          "package_name": "com.loginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058918694054-siksimc9o0cda7c2cuhnti7bek847ei0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHYyWjn1_8sBhVAkZdcEkHhZlGiqWqC4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058918694054-siksimc9o0cda7c2cuhnti7bek847ei0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058918694054-46sr63kseis005q5g4fb2pbvgqdjm1ch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.LoginProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
